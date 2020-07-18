@@ -1,0 +1,4 @@
+ This file is configuration
+of automation
+that we using
+in our project
