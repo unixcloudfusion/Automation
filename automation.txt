@@ -1,4 +1,9 @@
  This file is configuration
-of automation
+of automation of code
 that we using
 in our project
+which will be used for
+the automation
+and 
+configuration 
+management
