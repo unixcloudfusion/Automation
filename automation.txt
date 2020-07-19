@@ -14,3 +14,5 @@ existing file
 This is the code change
 we doing on the stage
 branch
+
+This is the code changes done by the developer2 on the automation.txt
