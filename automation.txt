@@ -10,3 +10,7 @@ management
 file is being edited
 Created a new line in the
 existing file
+
+This is the code change
+we doing on the stage
+branch
